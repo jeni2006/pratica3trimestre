@@ -33,5 +33,11 @@
     background-color: rgb(246, 216, 253);
 }
 #resultado{
-    background-color: rgb(253, 181, 238);
+    background-color: rgb(233, 185, 229);
+    width: 207px;
+    height: 30px;
+    margin: 5px;
+    color: black;
+    text-align: right;
+    padding: 5px;
 }
